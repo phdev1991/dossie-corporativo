@@ -1,0 +1,12 @@
+{
+  "empresa_nome": "TechFlow Solutions",
+  "cnpj": "12.345.678/0001-90",
+  "segmento": "Tecnologia / Automação",
+  "descricao": "Empresa especializada em soluções de automação corporativa e inteligência de dados.",
+  "dados_financeiros": {
+    "receita_anual": 5000000.0,
+    "lucro_liquido": 1200000.0
+  },
+  "fontes_conhecidas": ["https://techflow.com.br"],
+  "notas_adicionais": "Empresa em expansão, foco no mercado B2B."
+}
